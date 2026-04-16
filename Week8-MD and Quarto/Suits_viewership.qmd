@@ -8,3 +8,6 @@ format: html
 
 *Suits* is an American legal drama television series that follows a talented college dropout who begins working at a prestigious New York law firm. The show focuses on high‑stakes corporate cases, complex relationships inside the firm, and the tension created by the main character hiding the fact that he never attended law school.
 
+## Suits Logo
+
+![](images/MV5BN2EwMGExNDgtNTA5Yi00OGRjLWJlYzEtZmI3MDg0NzQxNTIwXkEyXkFqcGdeQXNhcmFocmVi._V1_.jpg){width=300px}
